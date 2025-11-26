@@ -7,6 +7,7 @@
 
 ---
 
+
 # **Course Overview**
 
 **Humanitarians AI — Branding and AI** is a community-built, open-access course exploring how modern branding evolves in the era of artificial intelligence. The course is created by volunteers—designers, technologists, storytellers, and early-career creatives—who learn by teaching.
