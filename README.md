@@ -1,166 +1,186 @@
+# Branding & AI: Building Your Professional Future with Intelligence
+ 
+**An Intelligent Textbook for INFO 7375** 
+*Northeastern University | Spring 2026*
+ 
+---
+ 
+## Welcome to the Future of Branding
+ 
+This isn't your typical textbook. This is a living, practical guide to building a career at the intersection of branding, artificial intelligence, and professional positioning. By the end of this course, you'll have two powerful assets:
+ 
+1. **A technical contribution to the Madison Framework** - an open-source AI marketing intelligence platform
+2. **A complete professional brand** - portfolio, presence, and positioning that gets you hired
+ 
+**The Philosophy: Ship It**
+ 
+In the real world, 80% of success is shipping something that works. The other 20%—the polish, the insight, the extra mile—that's what beats your competition. This course follows the 80/20 principle: get it done, get it out there, then make it excellent.
+ 
+---
+ 
+## How This Textbook Works
+ 
+### Part I: Madison Framework (Chapters 1-5)
+Master the technical skills that make you valuable. Build AI-powered marketing tools that solve real problems.
+ 
+### Part II: Your Brand (Chapters 6-10) 
+Position yourself in the market. Create a professional presence that opens doors.
+ 
+### Part III: Integration & Launch (Chapters 11-12)
+Bring it all together. Present your work. Launch your career.
+ 
+---
+ 
+## Course Structure
+ 
+| Chapter | Title | Focus | Deliverable |
+|---------|-------|-------|-------------|
+| **1** | [Foundation Setup](./Module%201/README.md) | Professional Identity & Tools | Figma Board with Goals |
+| **2** | [Madison Planning](./Module%202/README.md) | Product Requirements | PRD & Architecture |
+| **3** | Data Pipeline | n8n Workflows | Working Data Collection |
+| **4** | Scale & Intelligence | AI Enhancement | Smart, Scalable System |
+| **5** | Portfolio Integration | User Interface | Public-Facing Tool |
+| **6** | Brand Strategy | Positioning & Naming | Brand Foundation |
+| **7** | [Brand Identity](./Module%207/README.md) | Visual System | Logo, Colors, Wireframes |
+| **8** | Digital Presence | Website & Documents | Live Portfolio Site |
+| **9** | Brand Storytelling | Narrative & Content | Published Article |
+| **10** | Final Portfolio | Complete System | Presentation-Ready Work |
+ 
+---
+ 
+## What Makes This Different
+ 
+**1. Learn by Building** 
+Every chapter results in a tangible asset for your portfolio. No busywork.
+ 
+**2. Real Tools, Real Results** 
+You'll use the same AI tools, frameworks, and platforms that companies use today.
+ 
+**3. Job-Market Ready** 
+Everything you create is designed to help you land interviews and get offers.
+ 
+**4. AI-Enhanced Learning** 
+This textbook shows you how to use AI tools (Claude, ChatGPT) to accelerate your learning and work.
+ 
+---
+ 
+## Prerequisites
+ 
+- **Mindset**: Willingness to ship imperfect work and iterate
+- **Tools**: Access to AI assistants (ChatGPT or Claude)
+- **Skills**: Basic familiarity with branding concepts, AI tools, and any programming language
+- **Commitment**: ~10-12 hours per week
+ 
+**You don't need to be an expert. You need to be willing to learn and ship.**
+ 
+---
+ 
+## Learning Outcomes
+ 
+By completing this textbook, you will:
+ 
+✅ Master the Madison Framework for AI-powered marketing intelligence 
+✅ Build a working AI tool that solves a real marketing problem 
+✅ Create a complete professional brand (personal or startup) 
+✅ Develop a portfolio that demonstrates both technical and creative skills 
+✅ Position yourself competitively for roles in creative technology 
+✅ Ship real work that you can show employers, clients, or investors
+ 
+---
+ 
+## The Madison Framework
+ 
+**What is Madison?**
+ 
+Madison is an open-source, agent-based AI marketing intelligence framework. Think of it as a toolkit for building AI-powered marketing automation and analysis tools.
+ 
+**Why does it matter?**
+ 
+- **For Students**: It's a real framework you can contribute to and put on your resume
+- **For Professionals**: It solves actual marketing problems with AI
+- **For Your Career**: It proves you can build at the intersection of AI and business
+ 
+**What Students Build with Madison**:
+- Social media monitoring and analysis tools
+- Automated content generation systems
+- Competitor intelligence platforms
+- Sentiment analysis dashboards
+- Media scraping and aggregation tools
+- Synthetic persona generators
+- Campaign performance trackers
+- Brand consistency checkers
+- Multi-channel automation workflows
+ 
+Throughout this textbook, you'll extend Madison to solve a problem you care about.
+ 
+---
+ 
+## How to Use This Textbook
+ 
+### For Students in INFO 7375:
+1. Read each chapter before starting the assignment
+2. Use the textbook to understand the "why" behind each task
+3. Reference examples and best practices as you work
+4. Come to office hours with specific questions
+ 
+### For Self-Learners:
+1. Work through chapters sequentially
+2. Complete the deliverables for each chapter
+3. Adapt examples to your specific goals
+4. Join the Madison Framework community on GitHub
+ 
+### For Quick Reference:
+- Each chapter has a "Quick Start" section
+- "Common Pitfalls" help you avoid mistakes
+- "Pro Tips" give you the edge
+ 
+---
+ 
+## Resources
+ 
+- **Madison Framework**: [GitHub Repository](https://github.com/Humanitariansai/Madison)
+- **Course Materials**: Canvas (for enrolled students)
+- **Office Hours**: See syllabus
+- **Community**: Slack channel (link in Canvas)
+ 
+---
+ 
+## Instructors
+ 
+**Nik Bear Brown** 
+AI engineering professor and creator of the Madison framework. Nik brings hands-on technical expertise to help you stay at the forefront of AI-driven creative work.
+ 
+**Nina Harris** 
+Award-winning brand and creative director with 40+ years at Publicis, Saatchi & Saatchi, McCann Erickson, and Charles Schwab. Nina teaches you to position and present your work like a pro.
+ 
+---
+ 
+## Let's Build Something Amazing
+ 
+This textbook is your roadmap. The work you do here will open doors. Every chapter, every assignment, every iteration makes you more valuable in the job market.
+ 
+**Remember**: Done is better than perfect. Ship it, then make it better.
+ 
+Now let's get started.
+ 
+---
+ 
+## Contributing
+ 
+This is a living textbook. If you find errors, have suggestions, or want to contribute examples:
+1. Open an issue on GitHub
+2. Submit a pull request
+3. Contact the instructors
+ 
+**License**: MIT License - Use it, improve it, share it.
+ 
+---
+ 
+*Last Updated: December 2025*
 
+---
 
-# **Part 1: The Critique**
-
-### **1. The "Humanitarian" Gap**
-
-  * **The Issue:** The original outline looks like a standard corporate branding course. It discusses "Competitor Analysis" and "Customers."
-  * **The Fix:** Humanitarian branding is different. It is about **Donors, Beneficiaries, and Volunteers.** It relies on *empathy*, *trust*, and *transparency*, not just "sales." The updated course must reflect **"Impact Branding"**—how to brand a mission, not just a product.
-
-### **2. "Labs First" Implementation**
-
-  * **The Issue:** The pedagogy claims "Labs First," but the original outline lists "Topics" first and "Labs" second for every module.
-  * **The Fix:** In the update below, I have flipped the structure. You will see the **"Build" (Lab)** assignment first. This ensures you start the week creating, then use the theory to refine what you built.
-
-### **3. Sequencing of Personal Branding**
-
-  * **The Issue:** Personal Branding was Module 8.
-  * **The Fix:** If you are a volunteer "learning by teaching," you need to establish your *own* credibility earlier. I have integrated personal branding elements throughout, but specifically moved the "Professional Identity" focus slightly earlier so you can use it to showcase your work from the course as you go.
-
------
-
-# **Part 2: Updated Course Outline (10-Week Schedule)**
-
-**Pacing:** 1 Module per Week.
-**Philosophy:** Every week results in a tangible asset for your portfolio.
-
-## **Part I — The Soul of the Mission (Strategy)**
-
-### **Week 1: The AI Brand Manifesto**
-
-*Focus: Defining the "Why" and setting up your AI workspace.*
-
-  * **🧪 The Lab (Do this first):**
-      * **Setup:** Configure your "Board of Directors" in ChatGPT/Claude (creating personas for a Strategist, a Copywriter, and a Designer).
-      * **The Output:** Generate a 1-page **"Brand Manifesto"** for a hypothetical nonprofit. Define the *Enemy* (e.g., Hunger, Apathy) and the *Hero* (The Community).
-  * **📚 The Lecture Topics:**
-      * Modern Branding: Moving from "Logos" to "Movements."
-      * 
-[Image of Brand Archetypes Wheel]
-
-```
-* *Theory:* The 12 Brand Archetypes in the context of Social Good (e.g., The Caregiver vs. The Hero).
-* Introduction to the Humanitarians Courses GPT.
-```
-
-### **Week 2: Audience Empathy & The "Donor" Profile**
-
-*Focus: Using AI to understand who you are talking to.*
-
-  * **🧪 The Lab:**
-      * **The Output:** Create 3 distinct **"Empathy Maps"** using AI (The Major Donor, The Volunteer, The Beneficiary).
-      * **The Tooling:** Use AI to simulate a focus group. Ask ChatGPT to "Roleplay as a skeptical donor" and test your Week 1 Manifesto on them.
-  * **📚 The Lecture Topics:**
-      * Differentiating "Customers" vs. "supporters."
-      * Ethical storytelling: Avoiding "Poverty Porn" and maintaining dignity.
-      * The psychology of trust in the AI era.
-
-### **Week 3: The Visual Identity System (The Basics)**
-
-*Focus: Colors, Typography, and Accessibility.*
-
-  * **🧪 The Lab:**
-      * **The Output:** A **"One-Sheet Brand Board."**
-      * **The Workflow:** Use Adobe Express or Canva AI to generate 5 color palette variations based on emotional keywords (e.g., "Urgent," "Hopeful," "Transparent"). Select fonts that meet ADA/WCAG accessibility standards.
-  * **📚 The Lecture Topics:**
-    \*
-
-[Image of Color Psychology Chart]
-
-```
-* *Theory:* Color psychology in humanitarian contexts (Why Blue = Trust, Red = Urgency).
-* Typography hierarchy for readability.
-* How to prompt for "Styles" rather than specific images.
-```
-
------
-
-## **Part II — The Face of the Brand (Creation)**
-
-### **Week 4: Generative Imagery & Ethics**
-
-*Focus: Creating visuals that don't exist yet.*
-
-  * **🧪 The Lab:**
-      * **The Output:** An **"Ethical Image Library"** (10 cohesive assets).
-      * **The Challenge:** Create a visual campaign for a cause *without* showing human faces (to protect privacy/dignity) using metaphor and symbolism via MidJourney or Firefly.
-  * **📚 The Lecture Topics:**
-      * Prompt Engineering: Lighting, Aspect Ratios (`--ar`), and Styles (`--s`).
-      * **The Ethics of AI Imagery:** deeply analyzing bias in training data and the moral implications of generating "fake" news/suffering images (Deepfakes vs. Illustrative Art).
-
-### **Week 5: The Voice of Impact (Copywriting)**
-
-*Focus: Consistency across channels.*
-
-  * **🧪 The Lab:**
-      * **The Output:** A **"Voice & Tone Guide."**
-      * **The Workflow:** Feed your Manifesto into an LLM and ask it to rewrite a press release in three tones: *The Urgent Activist*, *The Scientific Expert*, and *The Community Elder*.
-  * **📚 The Lecture Topics:**
-      * Defining Brand Voice dimensions (Funny vs. Serious, Formal vs. Casual).
-      * Using AI for translation and localization (reaching global audiences).
-      * Writing for accessibility (Alt-text, plain language).
-
-### **Week 6: The Campaign Ecosystem**
-
-*Focus: Putting it all together for a specific event.*
-
-  * **🧪 The Lab:**
-      * **The Output:** A full **"Campaign Kit"** for a specific event (e.g., "World Water Day" or a "Year-End Fundraiser").
-      * **Deliverables:** An Instagram Story mockup, an Email Header, a Donation Landing Page hero image, and 3 subject lines.
-  * **📚 The Lecture Topics:**
-      * Omnichannel consistency.
-      * A/B Testing with AI (generating variants to test performance).
-      * Speed-running the creative process: Concept to Launch in 2 hours.
-
------
-
-## **Part III — The Future & The Professional (Growth)**
-
-### **Week 7: Data-Driven Storytelling & Analytics**
-
-*Focus: Proving the impact.*
-
-  * **🧪 The Lab:**
-      * **The Output:** An **"Impact Dashboard Mockup."**
-      * **The Workflow:** Use AI to visualize dummy data. Turn a spreadsheet of "meals served" into a compelling infographic or data-visualization.
-  * **📚 The Lecture Topics:**
-      * Social Listening: Using AI to monitor sentiment about your cause.
-      * Metrics that matter: Engagement vs. Conversion (Donations/Signups).
-      * Visualizing complex humanitarian data for the general public.
-
-### **Week 8: Internal Branding & Team Collaboration**
-
-*Focus: Helping teams use what you built.*
-
-  * **🧪 The Lab:**
-      * **The Output:** A **"Custom GPT for the Team."**
-      * **The Task:** Create a simple prompt instruction set or a custom GPT that allows a non-designer volunteer to generate a social post that *strictly* follows the Brand Guidelines you created in Week 3.
-  * **📚 The Lecture Topics:**
-      * Brand Governance: How to stop people from stretching the logo.
-      * Democratizing design: Empowering volunteers without breaking the brand.
-      * Asset Management systems.
-
-### **Week 9: Personal Branding for the AI Creative**
-
-*Focus: Positioning yourself.*
-
-  * **🧪 The Lab:**
-      * **The Output:** Your **"Portfolio Case Study."**
-      * **The Task:** Take the work from Weeks 1-8 and package it. Use AI to write the case study text: *The Challenge, The Solution, The Impact.* Update your LinkedIn headline and bio.
-  * **📚 The Lecture Topics:**
-      * Positioning yourself as an "AI-Augmented Creative."
-      * Overcoming Imposter Syndrome.
-      * How to present AI work to future employers/clients (transparency in tools used).
-
-### **Week 10: Capstone — The "Real World" Pitch**
-
-*Focus: Final integration.*
-
-  * **🧪 The Lab:**
-      * **The Output:** A **3-Minute Video Pitch.**
-      * **The Task:** Record yourself presenting your Brand System for a fictional (or real) NGO. Walk through the Manifesto, the Visuals, and the Campaign.
-  * **📚 The Lecture Topics:**
-      * The art of the pitch.
-      * Future trends in AI and Humanitarian work.
-      * Course wrap-up and how to contribute back to the repo.
-
+<div style="display: flex; justify-content: space-between;">
+  <a href="#"></a>
+  <a href="./Module 1/README.md">Module 1: Foundational Setup →</a>
+</div>
