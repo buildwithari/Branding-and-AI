@@ -225,27 +225,27 @@ NOT INCLUDED IN MVP:
 ❌ Automated posting responses (just monitoring)  
 ❌ Visual dashboard (just email digest)  
 ❌ Customizable filters (fixed importance algorithm)  
-WHY: Core concept is "can we automate competitor monitoring?" Everything else is polish. Can add in Week 4.
+WHY: Core concept is "can we automate competitor monitoring?" Everything else is polish. Can add in future iterations.
  
-**Content Adapter - NOT IN MVP**:  
-NOT INCLUDED IN MVP:  
-❌ Additional platforms (just Twitter/LinkedIn/Instagram)  
-❌ Image generation (text only)  
-❌ Automated posting (adaptation only, not distribution)  
-❌ Performance tracking (creation only, not analytics)  
-❌ Content calendar integration (standalone tool)  
-❌ Team collaboration (single user)  
-WHY: Proving we can maintain message fidelity while adapting to platform norms. Distribution comes later.
+**Content Adapter - NOT IN MVP**:
+NOT INCLUDED IN MVP:
+❌ Additional platforms (just Twitter/LinkedIn/Instagram)
+❌ Image generation (text only)
+❌ Automated posting (adaptation only, not distribution)
+❌ Performance tracking (creation only, not analytics)
+❌ Content calendar integration (standalone tool)
+❌ Team collaboration (single user)
+WHY: Proving we can maintain message fidelity while adapting to platform norms. Distribution comes in future iterations.
  
-**Synthetic Personas - NOT IN MVP**:  
-NOT INCLUDED IN MVP:  
-❌ Real-time data ingestion (batch processing only)  
-❌ Visual persona cards (text documents only)  
-❌ Journey mapping (just personas)  
-❌ Competitive persona comparison (single company focus)  
-❌ Persona updates over time (snapshot only)  
-❌ Integration with CRM/marketing platforms  
-WHY: Core concept is "can we generate data-driven personas from customer data?" Integrations come later.
+**Synthetic Personas - NOT IN MVP**:
+NOT INCLUDED IN MVP:
+❌ Real-time data ingestion (batch processing only)
+❌ Visual persona cards (text documents only)
+❌ Journey mapping (just personas)
+❌ Competitive persona comparison (single company focus)
+❌ Persona updates over time (snapshot only)
+❌ Integration with CRM/marketing platforms
+WHY: Core concept is "can we generate data-driven personas from customer data?" Integrations come in future iterations.
  
 **Why This Matters**:
 - Prevents scope creep
@@ -257,7 +257,7 @@ WHY: Core concept is "can we generate data-driven personas from customer data?" 
 
 ![Scope Check Image](assets/part4-scope-check.png)
 
-**Can you build this in Week 3?**
+**Can you build this in the time available?**
  
 Ask yourself:
 - Do I understand what each component does?
@@ -436,5 +436,5 @@ Define the exact data structure between agents.
 
 ---
 
-| [← Part 3: Your PRD (Product Requirements Document)](./3_Your_PRD.md) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Part 5: Peer Review - Help Your Teammate Succeed →](./5_Peer_Review.md) |
+| [← Part 3: Your PRD (Product Requirements Document)](./3_Your_PRD.md) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Module 3 →](../Module%203/README.md) |
 |:---|:---:|---:|
