@@ -100,7 +100,5 @@ You can't build professional work without professional tools. Setting everything
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="./5_Personal_Brand_Baseline.md">← Part 5: Personal Brand Baseline</a>
-  <a href="../Module 2/README.md">Module 2: Madison Planning→</a>
-</div>
+| [← Part 5: Personal Brand Baseline](./5_Personal_Brand_Baseline.md) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Module 2: Madison Planning →](../Module%202/README.md) |
+|:---|:---:|---:|

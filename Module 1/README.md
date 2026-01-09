@@ -382,7 +382,5 @@ Use this checklist to make sure you've completed everything:
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="../README.md">← Course Introduction</a>
-  <a href="./1_Your_Professional_Introduction.md">Part 1: Your Professional Introduction →</a>
-</div>
+| [← Course Introduction](../README.md) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Part 1: Your Professional Introduction →](./1_Your_Professional_Introduction.md) |
+|:---|:---:|---:|

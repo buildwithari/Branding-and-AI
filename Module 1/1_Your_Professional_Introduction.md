@@ -104,7 +104,5 @@ Skills: [Skill 1] | [Skill 2] | [Skill 3]
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="./README.md">← Module 1 Introduction</a>
-  <a href="./2_Skills_and_Development_Goals.md">Part 2: Skills and Development Goals →</a>
-</div>
+| [← Module 1 Introduction](./README.md) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Part 2: Skills and Development Goals →](./2_Skills_and_Development_Goals.md) |
+|:---|:---:|---:|

@@ -118,7 +118,5 @@ Who do you want to connect with?
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="./4_Introduction_to_Branding_Frameworks.md">← Part 4: Introduction to Branding Frameworks</a>
-  <a href="./6_Essential_Tools_Setup.md">Part 6: Essential Tools Setup →</a>
-</div>
+| [← Part 4: Introduction to Branding Frameworks](./4_Introduction_to_Branding_Frameworks.md) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Part 6: Essential Tools Setup →](./6_Essential_Tools_Setup.md) |
+|:---|:---:|---:|

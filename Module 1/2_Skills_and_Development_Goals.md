@@ -105,7 +105,5 @@ Pick 3 skills to focus on this semester. Here's how:
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="./1_Your_Professional_Introduction.md">← Part 1: Your Professional Introduction</a>
-  <a href="./3_Madison_Framework_Project_Selection.md">Part 3: Madison Framework Project Selection →</a>
-</div>
+| [← Part 1: Your Professional Introduction](./1_Your_Professional_Introduction.md) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Part 3: Madison Framework Project Selection →](./3_Madison_Framework_Project_Selection.md) |
+|:---|:---:|---:|

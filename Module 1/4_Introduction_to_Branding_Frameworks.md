@@ -50,7 +50,5 @@ In Week 7, you'll choose an archetype for YOUR brand (personal or startup) to gu
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="./3_Madison_Framework_Project_Selection.md">← Part 3: Madison Framework Project Selection</a>
-  <a href="./5_Personal_Brand_Baseline.md">Part 5: Personal Brand Baseline →</a>
-</div>
+| [← Part 3: Madison Framework Project Selection](./3_Madison_Framework_Project_Selection.md) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Part 5: Personal Brand Baseline →](./5_Personal_Brand_Baseline.md) |
+|:---|:---:|---:|

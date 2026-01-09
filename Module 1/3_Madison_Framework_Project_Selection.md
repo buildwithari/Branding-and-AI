@@ -197,7 +197,5 @@ Connect to actual marketing needs. "This addresses the challenge of competitive 
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="./2_Skills_and_Development_Goals.md">← Part 2: Skills and Development Goals</a>
-  <a href="./4_Introduction_to_Branding_Frameworks.md">Part 4: Introduction to Branding Frameworks →</a>
-</div>
+| [← Part 2: Skills and Development Goals](./2_Skills_and_Development_Goals.md) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [Part 4: Introduction to Branding Frameworks →](./4_Introduction_to_Branding_Frameworks.md) |
+|:---|:---:|---:|
