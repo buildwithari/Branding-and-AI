@@ -123,11 +123,11 @@ A working data pipeline with comprehensive documentation that includes:
 
 You'll know you've succeeded when:
 
-✅ Your workflow runs without major errors
-✅ You have 50-200 clean, relevant records
-✅ Data is structured consistently (JSON or CSV)
-✅ Someone else could follow your documentation and reproduce your results
-✅ Quality metrics are documented (completeness, validity rates)
+✅ Your workflow runs without major errors  
+✅ You have 50-200 clean, relevant records  
+✅ Data is structured consistently (JSON or CSV)  
+✅ Someone else could follow your documentation and reproduce your results  
+✅ Quality metrics are documented (completeness, validity rates)  
 ✅ Your data is ready for the next phase (adding AI intelligence)
 
 ![Completion Image](assets/completion-1.png)
@@ -135,27 +135,27 @@ You'll know you've succeeded when:
 ## Common Pitfalls & How to Avoid Them
 
 ### Pitfall #1: Using Problematic APIs
-**Symptom**: Spending hours fighting rate limits, getting IP banned, complex authentication
+**Symptom**: Spending hours fighting rate limits, getting IP banned, complex authentication  
 **Fix**: Start with Tier 1 sources (public datasets, RSS feeds, YouTube API, NewsAPI). Avoid LinkedIn API, Twitter free tier, and live Reddit scraping entirely.
 
 ### Pitfall #2: Prioritizing Quantity Over Quality
-**Symptom**: "I need 1000+ records to be impressive"
+**Symptom**: "I need 1000+ records to be impressive"  
 **Fix**: 100 clean, relevant records is better than 1000 messy ones. Quality beats quantity.
 
 ### Pitfall #3: Re-fetching Data During Development
-**Symptom**: Running your data collection workflow every time you test
+**Symptom**: Running your data collection workflow every time you test  
 **Fix**: Collect once, save locally, then reuse that data for all testing. This prevents rate limits and bans.
 
 ### Pitfall #4: Skipping Documentation
-**Symptom**: "I'll document it later" (you won't)
+**Symptom**: "I'll document it later" (you won't)  
 **Fix**: Document as you go. Take screenshots while building. Write notes immediately.
 
 ### Pitfall #5: Over-Engineering the Workflow
-**Symptom**: 15+ nodes, complex branching, handling every edge case
+**Symptom**: 15+ nodes, complex branching, handling every edge case  
 **Fix**: Simple is fine. 4-6 nodes that work reliably beats a complex workflow that breaks.
 
 ### Pitfall #6: No Error Handling
-**Symptom**: Workflow crashes on first missing field or API error
+**Symptom**: Workflow crashes on first missing field or API error  
 **Fix**: Add basic null checks and default values. Handle common errors gracefully.
 
 ![Pitfalls Image](assets/pitfalls-1.png)
