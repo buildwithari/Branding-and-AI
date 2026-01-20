@@ -2,7 +2,7 @@
 
 ## Shopping for Ingredients Before You Cook
 
-![Hero Image](assets/hero.png)
+![Hero Image](assets/hero-1.png)
 
 ## What You'll Learn
 
@@ -37,7 +37,7 @@ Most students jump straight into building AI features without solid data foundat
 
 **Those who prioritize quality data collection?** They build faster later because they have solid foundations.
 
-![Planning Image](assets/planning.png)
+![Planning Image](assets/planning-1.png)
 
 ## The Core Philosophy: Quality Over Quantity
 
@@ -117,7 +117,7 @@ A working data pipeline with comprehensive documentation that includes:
 
 **IMPORTANT:** Notice that "excellence" is 150-300 records, NOT 1,000+. We prioritize quality over fighting with APIs.
 
-![Figma Board Image](assets/figma-board.png)
+![Figma Board Image](assets/figma-board-1.png)
 
 ## Success Criteria
 
@@ -130,7 +130,7 @@ You'll know you've succeeded when:
 ✅ Quality metrics are documented (completeness, validity rates)
 ✅ Your data is ready for the next phase (adding AI intelligence)
 
-![Completion Image](assets/completion.png)
+![Completion Image](assets/completion-1.png)
 
 ## Common Pitfalls & How to Avoid Them
 
@@ -158,7 +158,7 @@ You'll know you've succeeded when:
 **Symptom**: Workflow crashes on first missing field or API error
 **Fix**: Add basic null checks and default values. Handle common errors gracefully.
 
-![Pitfalls Image](assets/pitfalls.png)
+![Pitfalls Image](assets/pitfalls-1.png)
 
 ## Pro Tips from the Instructors
 
@@ -182,7 +182,7 @@ You'll know you've succeeded when:
 
 > "Collect once, reuse forever. Every time you re-run your data collection during testing, you risk rate limits and bans. Save your data locally after the first successful run, then work with that saved data."
 
-![Pro Tips Image](assets/pro-tips.png)
+![Pro Tips Image](assets/pro-tips-1.png)
 
 ## Real Student Examples
 
@@ -228,7 +228,7 @@ You'll know you've succeeded when:
 - Prioritized quantity over quality
 - No backup plan when APIs failed
 
-![Student Examples Image](assets/student-examples.png)
+![Student Examples Image](assets/student-examples-1.png)
 
 ## Tools & Resources
 
@@ -253,7 +253,7 @@ You'll know you've succeeded when:
 - **CSV Tools**: Google Sheets, Excel
 - **Regex Testing**: regex101.com
 
-![Tools Image](assets/tools.png)
+![Tools Image](assets/tools-1.png)
 
 ## Next Steps
 
@@ -271,7 +271,7 @@ Remember: This data collection work saves you hours later. The students who rush
 
 Which one will you be?
 
-![Journey Image](assets/journey.png)
+![Journey Image](assets/journey-1.png)
 
 ## Quick Start Checklist
 
