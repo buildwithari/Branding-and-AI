@@ -1,6 +1,6 @@
 # Part 4: Documentation & Submission
 
-![Part 4 Hero](assets/part4-hero.png)
+![Part 4 Hero](assets/part5-hero.png)
 
 ## The Challenge
 
@@ -23,6 +23,8 @@ Documentation is what separates "I played with some APIs" from "I built a produc
 **With documentation**: Your work becomes a portfolio piece you can show employers.
 
 ---
+
+![Documentation Requirements](assets/part5-inventory.png)
 
 ## Documentation Requirements
 
@@ -85,6 +87,8 @@ Documentation is what separates "I played with some APIs" from "I built a produc
 ---
 
 ### Your Setup Guide
+
+![Setup Guide](assets/part5-setup.png)
 
 **Required Content:**
 
@@ -223,6 +227,8 @@ Documentation is what separates "I played with some APIs" from "I built a produc
 
 ## Demo Documentation
 
+![Demo Documentation](assets/part5-demo.png)
+
 ### Option A: Video Demo (3 minutes max)
 
 **What to Show:**
@@ -285,6 +291,8 @@ Documentation is what separates "I played with some APIs" from "I built a produc
 ---
 
 ## Examples of Strong Projects
+
+![Strong Projects](assets/part5-examples.png)
 
 ### Example 1: Brand Voice Analysis (Excellent)
 
@@ -652,6 +660,8 @@ madison-project/
 ---
 
 ## Final Checklist
+
+![Final Checklist](assets/part5-checklist.png)
 
 ### Before You Consider Yourself Done:
 
