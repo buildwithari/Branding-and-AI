@@ -1,6 +1,6 @@
 # Part 2: Building Your n8n Workflow
 
-![Part 2 Hero](assets/part2-hero.png)
+![Part 2 Hero](assets/part3-hero.png)
 
 ## The Challenge
 
@@ -40,7 +40,7 @@ A data pipeline is the plumbing of your AI project. Without it, you're manually 
 - Perfect for the 80/20 philosophy (powerful without complexity)
 - Industry-standard for marketing automation
 
-![n8n Interface](assets/part2-n8n.png)
+![n8n Interface](assets/part3-n8n.png)
 
 ---
 
@@ -62,6 +62,8 @@ n8n start
 **If you get errors**: Check that Node.js is installed properly. Most errors are because Node.js isn't in your PATH.
 
 ---
+
+![Understanding Nodes](assets/part3-nodes.png)
 
 ## Understanding Nodes
 
@@ -101,6 +103,8 @@ Nodes are building blocks. Each node does ONE thing:
 ---
 
 ## Your First Data Collection Workflow
+
+![First Workflow](assets/part3-first-workflow.png)
 
 Let's build a simple RSS news aggregator (Tier 1 - recommended):
 
@@ -252,6 +256,8 @@ return {
 ---
 
 ### Data Source Type 3: YouTube Data API (TIER 1 - RECOMMENDED)
+
+![YouTube API](assets/part3-youtube.png)
 
 **Best For**: Brand analysis projects, video content analysis, transcript collection
 
@@ -410,6 +416,8 @@ return articles.map(article => ({
 ---
 
 ### Data Source Type 5: Web Scraping (TIER 1 - USE CAREFULLY)
+
+![Web Scraping](assets/part3-scraping.png)
 
 **Best For**: Websites without APIs, public data, competitor content
 
