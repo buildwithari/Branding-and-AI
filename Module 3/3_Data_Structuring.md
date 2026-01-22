@@ -1,6 +1,6 @@
 # Part 3: Data Structuring & Workflow Patterns
 
-![Part 3 Hero](assets/part3-hero.png)
+![Part 3 Hero](assets/part4-hero.png)
 
 ## The Challenge
 
@@ -22,6 +22,8 @@ Think of data structure like organizing a kitchen:
 Your AI agent needs the "good kitchen" version of data.
 
 ---
+
+![JSON vs CSV](assets/part4-formats.png)
 
 ## JSON vs CSV: When to Use Each
 
@@ -72,6 +74,8 @@ id,competitor,text,platform,likes,shares,date,collected_at
 ---
 
 ## Essential Fields to Capture
+
+![Essential Fields](assets/part4-fields.png)
 
 **For Every Record, Include:**
 
@@ -132,6 +136,8 @@ id,competitor,text,platform,likes,shares,date,collected_at
 ---
 
 ## Data Cleaning Best Practices
+
+![Data Cleaning](assets/part4-cleaning.png)
 
 ### What to Clean
 
@@ -364,6 +370,8 @@ return {
 
 ## Error Handling & Reliability
 
+![Error Handling](assets/part4-errors.png)
+
 ### Common Errors and Fixes
 
 **Error 1: API Rate Limits**
@@ -498,6 +506,8 @@ IF (Check status code = 200)
 ---
 
 ## Data Quality Measures
+
+![Quality Measures](assets/part4-quality.png)
 
 ### Quality Checks to Implement
 
