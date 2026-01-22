@@ -1,6 +1,6 @@
 # Part 1: Data Source Selection
 
-![Part 1 Hero](assets/part1-hero.png)
+![Part 1 Hero](assets/part2-hero.png)
 
 ## The Challenge
 
@@ -20,7 +20,7 @@ Your data source selection can make or break your project. Choose well, and you'
 
 **Your goal**: Be in the first group.
 
-![Data Sources Image](assets/part1-sources.png)
+![Data Sources Image](assets/part2-sources.png)
 
 ---
 
@@ -41,6 +41,8 @@ Your data source selection can make or break your project. Choose well, and you'
 ---
 
 ### Tier 1: Recommended Data Sources (Start Here)
+
+![Tier 1 Sources](assets/part2-tier1.png)
 
 **These are reliable, accessible, and won't ban you:**
 
@@ -101,6 +103,8 @@ Your data source selection can make or break your project. Choose well, and you'
 ---
 
 ## The Golden Rule: Collect Once, Reuse Forever
+
+![Collect Once](assets/part2-golden-rule.png)
 
 **CRITICAL WORKFLOW PRINCIPLE:**
 
@@ -194,6 +198,8 @@ Manual Trigger → Read from /data/raw/ → Process → Analyze
 ---
 
 ## Data Needs by Project Type
+
+![Project Types](assets/part2-project-types.png)
 
 ### Project Type 1: Competitor Social Monitor
 
